@@ -33,6 +33,11 @@
 ----
 
 # 安装使用,这里略写,详细请参考博客: [定制符合我de环境的,第三代自动追番一体化](https://blog.jiawei.xin/?p=1019)
+##前置任务
+
+>配置群晖Download Station和下载过滤器 [群晖 Download Station设置RSS下载过滤器](https://blog.jiawei.xin/?p=736)
+>
+
 ## 第一步: 安装依赖
 
 >1、安装pip
