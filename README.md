@@ -27,9 +27,9 @@
 >
 >主程序EpisodeReName.py路径: {renamescript}
 >
->重命名延时,防止拥塞,单位为秒: {badstr}
+>重命名延时,防止拥塞,单位为秒: {renamedelay}
 >
->跳过的目录关键词,使用|分割: {renamedelay}
+>跳过的目录关键词,使用|分割: {badstr}
 ----
 
 # 三、安装使用,这里略写,详细请参考博客: [定制符合我de环境的,第三代自动追番一体化](https://blog.jiawei.xin/?p=1019)
