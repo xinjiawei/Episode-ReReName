@@ -11,16 +11,24 @@
 >1、编辑schedule.py字段,修改为你的环境
 >
 >downloadpath = "/volume4/download/2222-incomplete/dl_tmp/bangumi"
+>
 >warepath = "/volume1/homes/xinjiawei/bangumi/new_bangumi"
+>
 >renamescript = "/volume4/download/2222-incomplete/dl_tmp/EpisodeReName.py"
+>
 >renamedelay = 1
+>
 >badstr = '@|DAV'
 >
 ## 解释
 >临时下载目录: {downloadpath}')
+>
 >本地或挂载的目标仓库目录: {warepath}')
+>
 >主程序EpisodeReName.py路径: {renamescript}')
+>
 >重命名延时,防止拥塞,单位为秒: {badstr}')
+>
 >跳过的目录关键词,使用|分割: {renamedelay}')
 ----
 
