@@ -1,4 +1,4 @@
-# 关于：
+# 一、关于：
 >1、原项目地址: https://github.com/Nriver/Episode-ReName
 >
 >2、适配群晖Download Station
@@ -6,7 +6,7 @@
 >3、协议: https://github.com/Nriver/Episode-ReName/blob/main/LICENSE
 ----
 
-# 配置
+# 二、配置
 ## 关键字段
 >1、编辑schedule.py字段,修改为你的环境
 >
@@ -32,7 +32,7 @@
 >跳过的目录关键词,使用|分割: {renamedelay}
 ----
 
-# 安装使用,这里略写,详细请参考博客: [定制符合我de环境的,第三代自动追番一体化](https://blog.jiawei.xin/?p=1019)
+# 三、安装使用,这里略写,详细请参考博客: [定制符合我de环境的,第三代自动追番一体化](https://blog.jiawei.xin/?p=1019)
 ## 前置任务
 
 >配置群晖Download Station和下载过滤器 [群晖 Download Station设置RSS下载过滤器](https://blog.jiawei.xin/?p=736)
