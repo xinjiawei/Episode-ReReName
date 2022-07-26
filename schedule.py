@@ -12,8 +12,8 @@ badstr = '@|DAV'
 logger.debug(f'下载目录: {downloadpath}')
 logger.debug(f'本地或挂载的仓库目录: {warepath}')
 logger.debug(f'主脚本路径: {renamescript}')
-logger.debug(f'重命名延时,防止拥塞,单位为秒: {badstr}')
-logger.debug(f'跳过的目录关键词,使用|分割: {renamedelay}')
+logger.debug(f'重命名延时,防止拥塞,单位为秒: {renamedelay}')
+logger.debug(f'跳过的目录关键词,使用|分割: {badstr}')
 '''
 默认延迟一秒
 群晖Download Station 的原因, 排除掉@和DAV的文件夹
